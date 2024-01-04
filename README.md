@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tahaberk SOYSAL
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React JS
+- 👀 I’m interested in Frontend Development
+- 🌱 I’m currently creating projects to learn and practice my skills
 - 💞️ I’m looking to collaborate on Front-end Projects
 - 📫 How to reach me berksysl.g@gmail.com
 
